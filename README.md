@@ -6,8 +6,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  
-
+ 
   <h3 align="center">সহজ বাংলায় Node.js টিউটোরিয়াল সিরিজ</h3>
 
 <!-- TABLE OF CONTENTS -->
@@ -124,7 +123,6 @@ Go to your Visual Stuido Code `settings.json` file and add the below settings th
 "eslint.alwaysShowStatus": true
 ```
 
-
 ### Set Line Breaks
 
 Make sure in your VS Code Editor, "LF" is selected as line feed instead of CRLF (Carriage return and line feed). To do that, just click LF/CRLF in bottom right corner of editor, click it and change it to "LF". If you dont do that, you will get errors in my setup.
@@ -148,7 +146,7 @@ yarn add -D eslint-config-prettier eslint-plugin-prettier
 ### Setup Linting Configuration file
 
 Create a `.eslintrc.json` file in the project root and enter the below contents:
-<p> Original Code </p>
+
 ```json
 {
   "extends": ["prettier", "airbnb-base"],
@@ -178,8 +176,8 @@ Create a `.eslintrc.json` file in the project root and enter the below contents:
 }
 ```
 
-
 <!-- CONTACT -->
+
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
