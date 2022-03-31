@@ -7,7 +7,7 @@
 <br />
 <p align="center">
  
-  <h3 align="center">সহজ বাংলায় Node.js টিউটোরিয়াল সিরিজ</h3>
+  <h3 align="center">সহজ বাংলায় Node.js</h3>
 
 <!-- TABLE OF CONTENTS -->
 
