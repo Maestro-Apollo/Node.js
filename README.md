@@ -177,26 +177,7 @@ Create a `.eslintrc.json` file in the project root and enter the below contents:
   "plugins": ["prettier"]
 }
 ```
-</br>
-<p> Modify Code </p>
-  ```json
-{
-  "extends": ["prettier", "airbnb-base"],
-  "parserOptions": {
-    "ecmaVersion": 12
-  },
-  "env": {
-    "commonjs": true,
-    "node": true
-  },
-  "rules": {
-    "no-console": 0,
-    "indent": 0,
-    "linebreak-style": 0,
-    "eol-last": 0
-  }
-}
-```
+
 
 <!-- CONTACT -->
 
